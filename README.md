@@ -6,11 +6,11 @@ Hardware Model: Espruino Pico
 Software Version: 2v06 (c) 2019 G.Williams
 
 ## Wiring
-1) Close the **"FET Jumper"** to enable **5V** on **VCC (VBAT)** port
-2) Connect A5 port on the board into IN port on "Relay 1"
-3) Connect A6 port on the board into IN port on "Relay 2"
-4) Connect GND port on the board into GND port on "Relay 1" and "Relay 2"
-5) Connect VCC (VBAT) port on the board into 5V port on "Relay 1" and "Relay 2"
+1) On Espruino board, close the **"FET Jumper"** to enable **5V** on **VCC (VBAT)** port
+2) Espruino **A5** port to Relay 1 **IN** port
+3) Espruino **A6** port to Relay 2 **IN** port
+4) Espruino **GND** port to Relays (1 and 2) **GND*** port
+5) Espruino **VCC** (VBAT) port to Relays (1 and 2) **5V** port
 
 ## Relay and LED state control
 
