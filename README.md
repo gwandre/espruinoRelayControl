@@ -2,8 +2,7 @@
 Control Relays with an Espruino Pico board
 
 ## Hardware and Software
-Hardware Model: Espruino Pico 
-Software Version: 2v06 (c) 2019 G.Williams
+Espruino Pico - 2v06 (c) 2019 G.Williams
 
 ## Wiring
 1) On Espruino board, close the **"FET Jumper"** to enable **5V** on **VCC (VBAT)** port
